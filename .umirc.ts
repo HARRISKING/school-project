@@ -2,7 +2,7 @@ import { defineConfig } from 'umi';
 import routes from './src/routes'
 
 export default defineConfig({
-  favicon: 'https://fe-cloud.uni-ubi.com/other/1622427550983-favicon.ico',
+  publicPath: '/',
   hash: true,
   dva: {
     immer: true,
