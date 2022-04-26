@@ -1,0 +1,41 @@
+.headerBox {
+  width: 100vw;
+  height: 75vh;
+  .titleBox {
+    padding: 10vh 10vw 6vh 10vw;
+    .headerTitle {
+      font-size: 60px;
+      color: #fff;
+    }
+  }
+  .directory {
+    list-style-type: none;
+    padding: 0 10vw;
+    position: relative;
+    .directoryItem {
+      font-size: 18px;
+      color: #fff;
+      line-height: 42px;
+      text-decoration: none;
+      border-bottom: 1px solid;
+      padding-bottom: 5px;
+      &:hover {
+        border-bottom: none;
+      }
+    }
+    .backgroundImage {
+      width: 70vw;
+      height: 45vh;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+  }
+  .contentsBox {
+    border: 1px solid red;
+    position: absolute;
+    height: 60vh;
+    writing-mode: vertical-lr;
+  }
+}

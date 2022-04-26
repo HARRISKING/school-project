@@ -1,15 +1,14 @@
-import deviceRoutes from './modules/device';
-import userRoutes from './modules/user';
-
 export default [
   {
-    path: '/window',
-    component: '@/layouts/WindowLayout',
-    routes: [...userRoutes],
-  },
-  {
     path: '/',
-    component: '@/layouts/BasicLayout',
-    routes: [...deviceRoutes],
+    component: '@/layouts/BlankLayout',
+    routes: [
+      {
+        path: '/',
+        component: '@/pages/index',
+        name: '江财人力',
+        title: '江财人力',
+      },
+    ],
   },
 ];
