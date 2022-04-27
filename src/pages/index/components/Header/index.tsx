@@ -1,7 +1,5 @@
 import React from 'react';
 
-import dot from '@/assets/images/dot.svg';
-
 import styles from './index.less';
 
 interface IHeaderProps {
