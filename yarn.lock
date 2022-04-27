@@ -2440,6 +2440,11 @@ btoa@^1.2.1:
   resolved "http://npm.uniubi.com/btoa/-/btoa-1.2.1.tgz#01a9909f8b2c93f6bf680ba26131eb30f7fa3d73"
   integrity sha1-AamQn4ssk/a/aAuiYTHrMPf6PXM=
 
+bubbly-bg@^1.0.0:
+  version "1.0.0"
+  resolved "http://npm.uniubi.com/bubbly-bg/-/bubbly-bg-1.0.0.tgz#f336db37981c8603f3dd4ab1d731557896920048"
+  integrity sha512-sqTWKaeRjWywlXzDEL12z2lxhjG/hPK/0uWkl59hBSIdsA1y3GPRLHfkTelcufY0tQVtXCqKYQDvlW1XHNw53A==
+
 buffer-from@^1.0.0:
   version "1.1.2"
   resolved "http://npm.uniubi.com/buffer-from/-/buffer-from-1.1.2.tgz#2b146a6fd72e80b4f55d255f35ed59a3a9a41bd5"

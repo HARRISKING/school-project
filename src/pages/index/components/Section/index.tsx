@@ -1,12 +1,12 @@
 import React from 'react';
 
+import InfoModal from '../InfoModal';
 import styles from './index.less';
 
 interface ISectionProps {
   sectionData: any;
 }
 const Section: React.FC<ISectionProps> = ({ sectionData }) => {
-  console.log('sectionData>>>>', sectionData);
   return (
     <div className={styles.sectionBox} id={sectionData?.key}>
       <div
@@ -36,6 +36,9 @@ const Section: React.FC<ISectionProps> = ({ sectionData }) => {
           </div>
         </div>
       </div>
+      {sectionData?.has_info_modal && (
+        <InfoModal infoData={sectionData?.info_modal_list} />
+      )}
     </div>
   );
 };

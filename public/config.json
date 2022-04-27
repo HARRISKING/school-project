@@ -41,7 +41,7 @@
       },
       "info_modal_list": [
         {
-          "head_icon": "./hewei.jpg",
+          "head_icon": "https://s1.328888.xyz/2022/04/27/8vlSq.jpg",
           "name": "何炜",
           "brief": "江西南昌人，管理学博士，教授，博士生导师",
           "attributes": [
@@ -52,169 +52,68 @@
           ]
         },
         {
-          "head_icon": "./zhanxiaojun.jpg",
+          "head_icon": "https://s1.328888.xyz/2022/04/27/8vDHe.jpg",
           "name": "占小军",
           "brief": "江西都昌人，管理学博士、教授、博士生导师",
           "attributes": [
             {
               "title": "研究方向",
               "content": "组织行为和人力资源管理"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "background_image": "",
-      "title": "师资团队",
-      "has_info_modal": true,
-      "has_info_picture": false,
-      "info_picture_address": "",
-      "sub_card": {
-        "title": "师资团队",
-        "content": "教师是学生成长的守护者、激发者、引导者。"
-      },
-      "main_card": {
-        "title": "师资团队介绍",
-        "content_list": [
-          {
-            "bold_word": "",
-            "common_word": "共有教职工22人，其中教授12人，副教授5人，讲师5人，其中博士生导师8人，硕士生导师18人，已取得博士学位的教师15人，教育部高等学校工商管理类专业教学指导委员会委员1人，全国模范教师1人，江西省高等学校中青年学科带头人2人，“赣鄱英才555工程”领军人才1人，江西省“百千万人才工程”人才3人，江西省青年井冈学者2人，校级教学十佳3人，校级金牌主讲教师5人，校级网络教学优秀教师1人。"
-          },
-          {
-            "bold_word": "",
-            "common_word": "师生科研成果显著，已获国家自科基金立项数12项，国家社科基金项目1项，教育部人文社科项目1项，省级课题20余项，在本学科领域的高水平期刊《管理世界》、《中国工业经济》、《管理评论》、《南开管理评论》、《Journal of Applied Psychology》、《Journal of World Business》、《Journal of Occupational Health Psychology》、《Human Resource Management Journal》以及《Frontiers in Psychology》发表高水平文章若干篇。"
-          },
-          {
-            "bold_word": "",
-            "common_word": "在教学方面，拥有国家级一流课程2门，省级一流课程4门，和数字人力相关的新开课程4门，在教改课题以及省级、国家级教学成果奖方面均有斩获。"
-          }
-        ]
-      },
-      "info_modal_list": [
-        {
-          "head_icon": "./hewei.jpg",
-          "name": "何炜",
-          "brief": "江西南昌人，管理学博士，教授，博士生导师",
-          "attributes": [
-            {
-              "title": "研究方向",
-              "content": "组织理论、组织行为学、专业主义"
             }
           ]
         },
         {
-          "head_icon": "./zhanxiaojun.jpg",
-          "name": "占小军",
-          "brief": "江西都昌人，管理学博士、教授、博士生导师",
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86tD4.jpg",
+          "name": "明晓东",
+          "brief": "江西赣州人，理学博士，讲师，硕士生导师",
           "attributes": [
             {
               "title": "研究方向",
-              "content": "组织行为和人力资源管理"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "background_image": "",
-      "title": "师资团队",
-      "has_info_modal": true,
-      "has_info_picture": false,
-      "info_picture_address": "",
-      "sub_card": {
-        "title": "师资团队",
-        "content": "教师是学生成长的守护者、激发者、引导者。"
-      },
-      "main_card": {
-        "title": "师资团队介绍",
-        "content_list": [
-          {
-            "bold_word": "",
-            "common_word": "共有教职工22人，其中教授12人，副教授5人，讲师5人，其中博士生导师8人，硕士生导师18人，已取得博士学位的教师15人，教育部高等学校工商管理类专业教学指导委员会委员1人，全国模范教师1人，江西省高等学校中青年学科带头人2人，“赣鄱英才555工程”领军人才1人，江西省“百千万人才工程”人才3人，江西省青年井冈学者2人，校级教学十佳3人，校级金牌主讲教师5人，校级网络教学优秀教师1人。"
-          },
-          {
-            "bold_word": "",
-            "common_word": "师生科研成果显著，已获国家自科基金立项数12项，国家社科基金项目1项，教育部人文社科项目1项，省级课题20余项，在本学科领域的高水平期刊《管理世界》、《中国工业经济》、《管理评论》、《南开管理评论》、《Journal of Applied Psychology》、《Journal of World Business》、《Journal of Occupational Health Psychology》、《Human Resource Management Journal》以及《Frontiers in Psychology》发表高水平文章若干篇。"
-          },
-          {
-            "bold_word": "",
-            "common_word": "在教学方面，拥有国家级一流课程2门，省级一流课程4门，和数字人力相关的新开课程4门，在教改课题以及省级、国家级教学成果奖方面均有斩获。"
-          }
-        ]
-      },
-      "info_modal_list": [
-        {
-          "head_icon": "./hewei.jpg",
-          "name": "何炜",
-          "brief": "江西南昌人，管理学博士，教授，博士生导师",
-          "attributes": [
-            {
-              "title": "研究方向",
-              "content": "组织理论、组织行为学、专业主义"
+              "content": "工作场所中的行为伦理、自我控制、正念、领导力"
             }
           ]
         },
         {
-          "head_icon": "./zhanxiaojun.jpg",
-          "name": "占小军",
-          "brief": "江西都昌人，管理学博士、教授、博士生导师",
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86C82.png",
+          "name": "朱建斌",
+          "brief": "江西修水人、管理学博士，副教授、硕士生导师",
           "attributes": [
             {
               "title": "研究方向",
-              "content": "组织行为和人力资源管理"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "background_image": "",
-      "title": "师资团队",
-      "has_info_modal": true,
-      "has_info_picture": false,
-      "info_picture_address": "",
-      "sub_card": {
-        "title": "师资团队",
-        "content": "教师是学生成长的守护者、激发者、引导者。"
-      },
-      "main_card": {
-        "title": "师资团队介绍",
-        "content_list": [
-          {
-            "bold_word": "",
-            "common_word": "共有教职工22人，其中教授12人，副教授5人，讲师5人，其中博士生导师8人，硕士生导师18人，已取得博士学位的教师15人，教育部高等学校工商管理类专业教学指导委员会委员1人，全国模范教师1人，江西省高等学校中青年学科带头人2人，“赣鄱英才555工程”领军人才1人，江西省“百千万人才工程”人才3人，江西省青年井冈学者2人，校级教学十佳3人，校级金牌主讲教师5人，校级网络教学优秀教师1人。"
-          },
-          {
-            "bold_word": "",
-            "common_word": "师生科研成果显著，已获国家自科基金立项数12项，国家社科基金项目1项，教育部人文社科项目1项，省级课题20余项，在本学科领域的高水平期刊《管理世界》、《中国工业经济》、《管理评论》、《南开管理评论》、《Journal of Applied Psychology》、《Journal of World Business》、《Journal of Occupational Health Psychology》、《Human Resource Management Journal》以及《Frontiers in Psychology》发表高水平文章若干篇。"
-          },
-          {
-            "bold_word": "",
-            "common_word": "在教学方面，拥有国家级一流课程2门，省级一流课程4门，和数字人力相关的新开课程4门，在教改课题以及省级、国家级教学成果奖方面均有斩获。"
-          }
-        ]
-      },
-      "info_modal_list": [
-        {
-          "head_icon": "./hewei.jpg",
-          "name": "何炜",
-          "brief": "江西南昌人，管理学博士，教授，博士生导师",
-          "attributes": [
-            {
-              "title": "研究方向",
-              "content": "组织理论、组织行为学、专业主义"
+              "content": "商业创新、数字化人力资源管理"
             }
           ]
         },
         {
-          "head_icon": "./zhanxiaojun.jpg",
-          "name": "占小军",
-          "brief": "江西都昌人，管理学博士、教授、博士生导师",
+          "head_icon": "https://s1.328888.xyz/2022/04/27/860v7.jpg",
+          "name": "熊立",
+          "brief": "江西南昌人，副教授，硕士生导师",
           "attributes": [
             {
               "title": "研究方向",
-              "content": "组织行为和人力资源管理"
+              "content": "研究方向：组织行为学、战略人力资源管理、双元性理论和创业即兴"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/867LX.jpg",
+          "name": "王志成（1986-）",
+          "brief": "黑龙江人，博士、讲师、硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "知识隐藏，新生代员工，组织行为学"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86IzZ.jpg",
+          "name": "黄彬云",
+          "brief": "博士、副教授，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "国际人力资源管理、劳动力市场运行、就业关系"
             }
           ]
         }
