@@ -7,10 +7,126 @@
     ],
     "background_image": "https://s1.328888.xyz/2022/04/26/8YtH1.jpg",
     "background_color": "rgb(236,40,40)",
-    "content": "暗地里附近可垃圾费垃圾分类卡萨丁房间里卡第三方杰拉德刷卡机疯狂老爹撒酒疯老师的开房记录卡萨丁"
+    "content": "这是是首屏内容区，可修改编辑介绍团队或者部门"
   },
 
   "module_List": [
+    {
+      "background_image": "https://s1.328888.xyz/2022/04/27/8ZM8M.jpg",
+      "key": "target",
+      "title": "培养目标",
+      "has_info_modal": false,
+      "has_info_picture": false,
+      "info_picture_address": "",
+      "sub_card": {
+        "title": "我们的观点",
+        "content": "我们按照SKA模型推动学生在知识、技能和素质方面全面提升"
+      },
+      "main_card": {
+        "title": "培养目标",
+        "content_list": [
+          {
+            "bold_word": "知识：",
+            "common_word": "具有扎实的专业基础和广博的知识面，对专业有全面、深入、准确的认知。"
+          },
+          {
+            "bold_word": "业务能力：",
+            "common_word": "能综合性运用专业知识对人力资源管理的职能进行系统规划和运营。"
+          },
+          {
+            "bold_word": "业务技能：",
+            "common_word": "能结合业务和实践前沿，持续迭代专业技能。"
+          },
+          {
+            "bold_word": "特色：",
+            "common_word": "具备较强的数字化意识与思维，掌握各种人力资源管理数字化运营和人力数据分析。"
+          },
+          {
+            "bold_word": "素质能力：",
+            "common_word": "在终身学习、创新能力和领导力上表现突出。"
+          }
+        ]
+      },
+      "info_modal_list": [
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/8vlSq.jpg",
+          "name": "何炜",
+          "brief": "江西南昌人，管理学博士，教授，博士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "组织理论、组织行为学、专业主义"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/8vDHe.jpg",
+          "name": "占小军",
+          "brief": "江西都昌人，管理学博士、教授、博士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "组织行为和人力资源管理"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86tD4.jpg",
+          "name": "明晓东",
+          "brief": "江西赣州人，理学博士，讲师，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "工作场所中的行为伦理、自我控制、正念、领导力"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86C82.png",
+          "name": "朱建斌",
+          "brief": "江西修水人、管理学博士，副教授、硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "商业创新、数字化人力资源管理"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/860v7.jpg",
+          "name": "熊立",
+          "brief": "江西南昌人，副教授，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "研究方向：组织行为学、战略人力资源管理、双元性理论和创业即兴"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/867LX.jpg",
+          "name": "王志成（1986-）",
+          "brief": "黑龙江人，博士、讲师、硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "知识隐藏，新生代员工，组织行为学"
+            }
+          ]
+        },
+        {
+          "head_icon": "https://s1.328888.xyz/2022/04/27/86IzZ.jpg",
+          "name": "黄彬云",
+          "brief": "博士、副教授，硕士生导师",
+          "attributes": [
+            {
+              "title": "研究方向",
+              "content": "国际人力资源管理、劳动力市场运行、就业关系"
+            }
+          ]
+        }
+      ]
+    },
     {
       "background_image": "https://s1.328888.xyz/2022/04/27/8ZM8M.jpg",
       "key": "team",
@@ -119,5 +235,7 @@
         }
       ]
     }
-  ]
+  ],
+  "footer": "江西财经大学·工商管理学院·人力资源管理",
+  "logo": "https://s1.328888.xyz/2022/04/27/8MIMF.png"
 }

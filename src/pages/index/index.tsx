@@ -10,10 +10,19 @@ const Index: React.FC = () => {
   console.log('dataSource>>>>', dataSource);
   return (
     <div className={styles.indexBox}>
+      <div
+        className={styles.logoBox}
+        style={{ background: dataSource?.top_screen?.background_color }}
+      >
+        <img src={dataSource.logo} alt="" />
+      </div>
       <Header dataSource={dataSource} />
       {(dataSource?.module_List || []).map((item: any, index: number) => (
         <Section sectionData={item} key={index} />
       ))}
+      <div className={styles.footer}>
+        <div>{dataSource?.footer}</div>
+      </div>
     </div>
   );
 };
